@@ -14,7 +14,7 @@ quick_facts:
 
 linkedin: www.linkedin.com/in/hinson-austin
 
-image: /assets/images/profile.svg
+image: assets/images/Headshot.png
 
 # A "Currently" block — three short status lines for the home page.
 currently:
