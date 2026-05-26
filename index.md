@@ -1,26 +1,27 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: Austin Stanley Hinson
 description: My CEAMLS SAIRI Summer Research Site
 
 motto: "Curious about how research can shape better tools for everyday life."
 
 quick_facts:
-  - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Quantum Physics"
-  - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "🎓 Sophomore, Computer Science"
+  - "🔬 Interested in Software Development and Machine Learning Infra"
+  - "📍 Based in Waterville, ME"
+  - "🚀 I like, no, LOVE algorithms"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: www.linkedin.com/in/hinson-austin
+
 image: /assets/images/profile.svg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
   - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
+    text: "Machine learning textbooks, system design notes, and way too many research papers"
   - label: Building
-    text: "A small Raspberry Pi sensor logging dashboard"
+    text: "Software products and AI systems inspired by problems I’ve seen growing up in coastal Ghana"
   - label: Wondering
-    text: "How accessibility research can shape consumer hardware"
+    text: "What happens when ambitious technology is built with underserved communities in mind"
 ---
