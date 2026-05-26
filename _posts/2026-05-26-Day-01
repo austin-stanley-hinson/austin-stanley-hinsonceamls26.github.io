@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Day 1 — Orientation & Research Foundations"
+date: 2026-05-26
+permalink: /day1.html
+tags: ["onboarding", "research", "uiux"]
+
+what_i_learned: |
+  Today was mainly orientation and onboarding for the SAIRI program. I met my
+  research group and got to know some of the people I'll be working with this summer.
+  We were introduced to tools like GitHub and YAML, which we'll be using throughout
+  the program.
+
+  We also attended a talk by Dr. Gabriella Waters from Virginia State University
+  about research design and experimental variables. I learned more about dependent,
+  independent, and control variables, as well as why controls are important in
+  building reliable experiments and research outcomes.
+
+  Outside of the research sessions, I also continued learning about UI/UX design
+  through the Codecademy Figma course.
+
+blockers: |
+  No major blockers yet. Right now I'm mainly adjusting to the new workflow,
+  tools, and terminology being introduced in the program.
+
+reflection: |
+  Today felt like a solid introduction to both the technical and research side
+  of the program. I'm excited to officially meet my mentors and research team
+  tomorrow and start getting deeper into the actual project work. I’ll also be
+  continuing with Figma 101 to strengthen my UI/UX fundamentals.
+---
