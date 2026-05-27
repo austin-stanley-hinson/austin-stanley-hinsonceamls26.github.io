@@ -7,7 +7,7 @@ graduate_mentor:
   name: Ramisa Farha
   title: PhD Student, Advanced Computing
   image: /assets/images/graduate-student-mentor.svg
-  website: https://example.com/alex-morgan
+  website: https://example.com/alex-morgan](https://www.linkedin.com/in/ramisa-farha/
   bio: |
     Ramisa is a Graduate Researcher in Advanced Computing working at the intersection of deep learning, medical imaging, computer vision, and healthcare AI. 
     Her work focuses on building AI systems that support medical image analysis and improve explainability and reliability in clinical decision-making, especially for neuroimaging and Alzheimer’s disease research.
@@ -21,7 +21,7 @@ faculty_mentor:
   name: Dr. Roshan Paudel
   title: Faculty Mentor, Morgan State University
   image: /assets/images/faculty-mentor.svg
-  website: https://example.com/pat-nguyen
+  website: https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/
   bio: |
     Dr. Roshan Paudel is a researcher and educator at Morgan State University whose work spans bioinformatics, high-performance computing, computational biology, and machine learning for healthcare applications. 
     His research focuses on neuroimaging, computational modeling, and data-driven healthcare systems, especially in areas connected to Alzheimer’s disease research and medical AI.
