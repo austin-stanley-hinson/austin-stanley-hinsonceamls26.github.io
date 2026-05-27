@@ -7,7 +7,7 @@ graduate_mentor:
   name: Ramisa Farha
   title: PhD Student, Advanced Computing
   image: /assets/images/graduate-student-mentor.svg
-  website: https://example.com/alex-morgan](https://www.linkedin.com/in/ramisa-farha/
+  website: https://www.linkedin.com/in/ramisa-farha/
   bio: |
     Ramisa is a Graduate Researcher in Advanced Computing working at the intersection of deep learning, medical imaging, computer vision, and healthcare AI. 
     Her work focuses on building AI systems that support medical image analysis and improve explainability and reliability in clinical decision-making, especially for neuroimaging and Alzheimer’s disease research.
