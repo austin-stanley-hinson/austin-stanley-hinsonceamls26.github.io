@@ -1,1 +1,44 @@
+---
+layout: post
+title: "Day 15 — Beginning the In-Person Experience"
+date: 2026-06-15
+permalink: /day15.html
+tags: ["research", "data-science", "ai", "sairi"]
 
+what_i_learned: |
+  Today marked the beginning of the in-person portion of the SAIRI program. It
+  was exciting to finally meet my research group members and many of the other
+  participants face-to-face after working together virtually. I also had the
+  opportunity to meet Elijah, Dr. Mack, Michael, and several other members of
+  the program in person for the first time.
+
+  The day began with a reintroduction to the program, including expectations for
+  participants, mentors, faculty members, and professional conduct throughout
+  the remainder of the summer.
+
+  We then participated in a data analytics workshop where we worked with Pandas,
+  NumPy, and Matplotlib. The session introduced important techniques for data
+  manipulation, analysis, and visualization. These are skills I have been
+  wanting to develop for some time, so I was excited to gain more hands-on
+  experience with these tools.
+
+  Later, we attended a workshop on AI bias and dataset bias. Through discussions
+  and activities, we explored how bias can enter datasets and machine learning
+  systems, as well as the impact this can have on the outputs of large language
+  models and other AI applications.
+
+  We finished the day in our research group, where we discussed our goals and
+  planned activities for the week ahead as we begin the next phase of the
+  project.
+
+blockers: |
+  No major blockers today. Most of the day focused on orientation, workshops,
+  and planning for the upcoming week.
+
+reflection: |
+  Today felt like an exciting milestone in the program. Meeting everyone in
+  person made the experience feel much more real, and the workshops provided
+  valuable skills that will be useful both for this project and future work in
+  data science and machine learning. I'm looking forward to applying these tools
+  as we move into model training and deeper analysis in the coming weeks.
+---
