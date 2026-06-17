@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Austin Hinson
   role: Sophomore, Computer Science & Applied Mathematics
-  image: /assets/images/profile.jpg
+  image: /assets/images/gallery-4.jpeg
   linkedin: https://www.linkedin.com/in/hinson-austin
 
   bio: |
@@ -37,12 +37,12 @@ about:
       description: A lifelong Los Angeles Lakers fan and enthusiastic supporter of LeBron James.
 
   gallery:
-    - image: /assets/images/gallery-1.jpg
+    - image: /assets/images/gallery-1.jpeg
       caption: Taking a break with a game of pool.
 
-    - image: /assets/images/gallery-2.jpg
+    - image: /assets/images/gallery-2.jpeg
       caption: Bootz, my cat and unofficial productivity supervisor.
 
-    - image: /assets/images/gallery-3.jpg
+    - image: /assets/images/gallery-3.jpeg
       caption: Staying consistent in the gym outside of research and coursework.
 ---
