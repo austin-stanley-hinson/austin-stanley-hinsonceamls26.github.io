@@ -20,7 +20,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Roshan Paudel
   title: Faculty Mentor, Morgan State University
-  image: /assets/images/faculty-mentor.svg
+  image: /assets/images/Faculty_Mentor.jpeg
   website: https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/
   bio: |
     Dr. Roshan Paudel is a researcher and educator at Morgan State University whose work spans bioinformatics, high-performance computing, computational biology, and machine learning for healthcare applications. 
