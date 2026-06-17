@@ -34,7 +34,7 @@ final_report_url:
 
 grad_mentor:
   name: Ramisa Farha
-  linkedin:
+  linkedin: https://www.linkedin.com/in/ramisa-farha/
 
 faculty_mentor:
   name: Dr. Roshan Paudel
