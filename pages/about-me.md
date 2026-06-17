@@ -4,36 +4,45 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
-  role: Junior, Computer Science
-  image: /assets/images/profile.svg
-  linkedin: https://www.linkedin.com/in/example
+  name: Austin Hinson
+  role: Sophomore, Computer Science & Applied Mathematics
+  image: /assets/images/profile.jpg
+  linkedin: https://www.linkedin.com/in/hinson-austin
+
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hi! I'm Austin Hinson, a Computer Science and Applied Mathematics student at
+    Colby College and a participant in the CEAMLS SAIRI Summer Research Program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
+    This summer, I'm conducting research on AI-driven drug discovery for
+    Alzheimer's disease, using machine learning and QSAR modeling to identify
+    promising therapeutic compounds. My interests span software engineering,
+    artificial intelligence, machine learning, and distributed systems.
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+    Beyond research, I enjoy building projects that solve real problems, from
+    local community platforms to monitoring systems and AI-powered applications.
+    I'm always excited to learn new technologies and explore how computing can
+    create meaningful impact.
 
   hobbies:
-    - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
-    - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
-    - icon: 📚
-      title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+    - icon: 💻
+      title: Building Projects
+      description: I enjoy creating software applications and experimenting with new technologies.
+
+    - icon: 🏀
+      title: Basketball
+      description: A huge Los Angeles Lakers fan and firm believer that LeBron James is the GOAT.
+
+    - icon: 🎬
+      title: Movies & TV
+      description: I enjoy shows and films that challenge me to think differently and see problems from new perspectives.
 
   gallery:
-    - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
-    - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
-    - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
+    - image: /assets/images/gallery-1.jpg
+      caption: Presenting research during the SAIRI program.
+
+    - image: /assets/images/gallery-2.jpg
+      caption: Working on software and AI projects.
+
+    - image: /assets/images/gallery-3.jpg
+      caption: Exploring new opportunities through research and technology.
 ---
