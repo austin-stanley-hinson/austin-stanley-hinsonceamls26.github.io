@@ -1,40 +1,43 @@
 ---
+
 layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Human-Computer Interaction & Adaptive Systems
-project_title: "My Summer Research Project"
+subtitle: Artificial Intelligence for Drug Discovery
+project_title: "AI-Driven Discovery of Drug Candidate Compounds to Slow Cognitive Decline in Alzheimer's Disease"
 
 problem: |
-  Briefly describe the problem your project tackles. Who is affected? Why does this
-  matter? What gap or limitation are you trying to address?
+Alzheimer's disease affects millions of people worldwide and currently has no
+cure. Developing new treatments is often expensive, time-consuming, and has a
+high failure rate, making it difficult to identify effective drug candidates.
 
-  Aim for two to three short paragraphs. Plain language is great — your audience
-  may not be specialists in your sub-field.
+This project explores how artificial intelligence and machine learning can help
+accelerate the early stages of drug discovery. By using computational methods
+to analyze molecular data, we aim to identify compounds that may have potential
+therapeutic effects against Alzheimer's-related targets.
 
 approach: |
-  Describe how you'll approach the problem. A bulleted plan works well:
 
-  - Step 1 — what you'll build, collect, or analyze first
-  - Step 2 — the next phase of the work
-  - Step 3 — how you'll evaluate or test
-  - Step 4 — how you'll communicate the results
-
-  Mention the specific tools, datasets, or methods you'll use.
+* Curate and preprocess molecular datasets from sources such as PubChem.
+* Extract molecular descriptors and prepare data for QSAR modeling.
+* Train and compare machine learning models, including Decision Trees, Random Forests, Logistic Regression, and KNN.
+* Evaluate model performance using metrics such as accuracy, precision, recall, F1 score, and confusion matrices.
+* Analyze top-performing compounds and document findings through presentations and research reports.
 
 outcome: |
-  What do you expect to produce by the end of the program? A working prototype?
-  A research poster? A short paper? Describe the artifacts and what you hope
-  others will be able to do with them.
+By the end of the program, I expect to produce a curated molecular dataset,
+trained QSAR models, and an evaluation of their performance in predicting
+promising Alzheimer's-related compounds. The project will also result in a
+research poster, presentations, and a final report summarizing the methods,
+results, and future directions for AI-assisted drug discovery.
 
-final_report_url: https://example.com/your-report.pdf
+final_report_url:
 
 grad_mentor:
-  name: Alex Morgan
-  linkedin: https://www.linkedin.com/in/example
+name: Ramisa Farha
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  linkedin: https://www.linkedin.com/in/example
----
+name: Dr. Roshan Paudel
+
+-----------------------
