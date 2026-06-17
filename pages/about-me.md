@@ -45,5 +45,4 @@ about:
 
     - image: /assets/images/gallery-3.jpg
       caption: Staying consistent in the gym outside of research and coursework.
-  ---
-      
+---
