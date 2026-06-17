@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Ramisa Farha
   title: PhD Student, Advanced Computing
-  image: /assets/images/Gradaute_Mentor.jpeg
+  image: /assets/images/Graduate_Mentor.jpeg
   website: https://www.linkedin.com/in/ramisa-farha/
   bio: |
     Ramisa is a Graduate Researcher in Advanced Computing working at the intersection of deep learning, medical imaging, computer vision, and healthcare AI. 
